@@ -1,5 +1,7 @@
 # mqo-param-validator
 
+> Part of the **[mqo-mcp](https://github.com/joeyen-atscale/mqo-mcp)** fleet — the AtScale MQO/MCP engine for AI analytics.
+
 Server-side validator that rejects unmapped MQO fields before execution
 (lookalike_measure, wrong_hierarchy_level, wrong_date_role, cross_fact_path).
 
